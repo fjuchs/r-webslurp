@@ -3,7 +3,7 @@ Spot On
 
 |    Today’s | This Week |
 |-----------:|----------:|
-| 2021-06-25 |  2021/w25 |
+| 2021-09-23 |  2021/w38 |
 
 ### Tank Ono
 
@@ -11,13 +11,13 @@ Spot On
 
 | vendor  | origin   | week     | date       | day       | fuel      | price | PriceVAT |
 |:--------|:---------|:---------|:-----------|:----------|:----------|------:|---------:|
-| TankOno | webslurp | 2021/w25 | 2021-06-25 | Friday    | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w25 | 2021-06-23 | Wednesday | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w24 | 2021-06-17 | Thursday  | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w24 | 2021-06-15 | Tuesday   | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w23 | 2021-06-07 | Monday    | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w22 | 2021-06-04 | Friday    | NATURAL95 | 25.21 |     30.5 |
-| TankOno | webslurp | 2021/w22 | 2021-06-02 | Wednesday | NATURAL95 | 25.21 |     30.5 |
+| TankOno | webslurp | 2021/w38 | 2021-09-23 | Thursday  | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w38 | 2021-09-22 | Wednesday | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w37 | 2021-09-18 | Saturday  | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w37 | 2021-09-17 | Friday    | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w37 | 2021-09-15 | Wednesday | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w37 | 2021-09-14 | Tuesday   | NATURAL95 | 26.36 |     31.9 |
+| TankOno | webslurp | 2021/w37 | 2021-09-13 | Monday    | NATURAL95 | 26.36 |     31.9 |
 
 <img src="SpotOn_files/figure-gfm/tono-ba95-1.png" style="display: block; margin: auto auto auto 0;" />
 
@@ -25,13 +25,13 @@ Spot On
 
 | vendor  | origin   | week     | date       | day       | fuel   | price | PriceVAT |
 |:--------|:---------|:---------|:-----------|:----------|:-------|------:|---------:|
-| TankOno | webslurp | 2021/w25 | 2021-06-25 | Friday    | DIESEL | 23.55 |     28.5 |
-| TankOno | webslurp | 2021/w22 | 2021-06-02 | Wednesday | DIESEL | 23.06 |     27.9 |
-| TankOno | webslurp | 2021/w21 | 2021-05-27 | Thursday  | DIESEL | 23.06 |     27.9 |
-| TankOno | webslurp | 2021/w21 | 2021-05-25 | Tuesday   | DIESEL | 23.06 |     27.9 |
-| TankOno | webslurp | 2021/w20 | 2021-05-21 | Friday    | DIESEL | 23.06 |     27.9 |
-| TankOno | webslurp | 2021/w20 | 2021-05-17 | Monday    | DIESEL | 23.06 |     27.9 |
-| TankOno | webslurp | 2021/w19 | 2021-05-14 | Friday    | DIESEL | 23.06 |     27.9 |
+| TankOno | webslurp | 2021/w38 | 2021-09-23 | Thursday  | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w38 | 2021-09-22 | Wednesday | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w37 | 2021-09-18 | Saturday  | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w37 | 2021-09-17 | Friday    | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w37 | 2021-09-15 | Wednesday | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w37 | 2021-09-14 | Tuesday   | DIESEL | 24.38 |     29.5 |
+| TankOno | webslurp | 2021/w37 | 2021-09-13 | Monday    | DIESEL | 24.38 |     29.5 |
 
 <img src="SpotOn_files/figure-gfm/tono-diesel-1.png" style="display: block; margin: auto auto auto 0;" />
 
@@ -41,13 +41,13 @@ Spot On
 
 | vendor | origin   | week     | date       | day       | fuel   | price | PriceVAT |
 |:-------|:---------|:---------|:-----------|:----------|:-------|------:|---------:|
-| AXIGON | webslurp | 2021/w25 | 2021-06-25 | Friday    | Diesel |  24.9 |     30.2 |
-| AXIGON | webslurp | 2021/w25 | 2021-06-23 | Wednesday | Diesel |  24.9 |     30.2 |
-| AXIGON | webslurp | 2021/w24 | 2021-06-17 | Thursday  | Diesel |  24.8 |     30.0 |
-| AXIGON | webslurp | 2021/w24 | 2021-06-15 | Tuesday   | Diesel |  24.8 |     30.0 |
-| AXIGON | webslurp | 2021/w23 | 2021-06-07 | Monday    | Diesel |  24.4 |     29.5 |
-| AXIGON | webslurp | 2021/w22 | 2021-06-04 | Friday    | Diesel |  24.4 |     29.5 |
-| AXIGON | webslurp | 2021/w22 | 2021-06-02 | Wednesday | Diesel |  24.4 |     29.5 |
+| AXIGON | webslurp | 2021/w38 | 2021-09-23 | Thursday  | Diesel |  25.9 |     31.4 |
+| AXIGON | webslurp | 2021/w38 | 2021-09-22 | Wednesday | Diesel |  25.9 |     31.4 |
+| AXIGON | webslurp | 2021/w37 | 2021-09-18 | Saturday  | Diesel |  25.6 |     31.0 |
+| AXIGON | webslurp | 2021/w37 | 2021-09-17 | Friday    | Diesel |  25.6 |     31.0 |
+| AXIGON | webslurp | 2021/w37 | 2021-09-15 | Wednesday | Diesel |  25.6 |     31.0 |
+| AXIGON | webslurp | 2021/w37 | 2021-09-14 | Tuesday   | Diesel |  25.6 |     31.0 |
+| AXIGON | webslurp | 2021/w37 | 2021-09-13 | Monday    | Diesel |  25.6 |     31.0 |
 
 <img src="SpotOn_files/figure-gfm/axigon-diesel-1.png" style="display: block; margin: auto auto auto 0;" />
 
@@ -57,13 +57,20 @@ Spot On
 
 | vendor | origin  | week     | date       | day       | fuel           | price | priceVAT |
 |:-------|:--------|:---------|:-----------|:----------|:---------------|------:|---------:|
-| UIC    | web/csv | 2021/w25 | 2021-06-25 | Friday    | Motorová nafta |  24.0 |     29.0 |
-| UIC    | web/csv | 2021/w25 | 2021-06-24 | Thursday  | Motorová nafta |  24.0 |     29.0 |
-| UIC    | web/csv | 2021/w25 | 2021-06-23 | Wednesday | Motorová nafta |  23.8 |     28.8 |
-| UIC    | web/csv | 2021/w25 | 2021-06-22 | Tuesday   | Motorová nafta |  23.8 |     28.8 |
-| UIC    | web/csv | 2021/w24 | 2021-06-19 | Saturday  | Motorová nafta |  23.7 |     28.7 |
-| UIC    | web/csv | 2021/w24 | 2021-06-18 | Friday    | Motorová nafta |  23.7 |     28.7 |
-| UIC    | web/csv | 2021/w24 | 2021-06-17 | Thursday  | Motorová nafta |  23.7 |     28.7 |
+| UIC    | web/csv | 2021/w38 | 2021-09-23 | Thursday  | Motorová nafta |  25.1 |     30.4 |
+| UIC    | web/csv | 2021/w38 | 2021-09-22 | Wednesday | Motorová nafta |  24.9 |     30.1 |
+| UIC    | web/csv | 2021/w38 | 2021-09-21 | Tuesday   | Motorová nafta |  24.8 |     30.0 |
+| UIC    | web/csv | 2021/w37 | 2021-09-18 | Saturday  | Motorová nafta |  24.7 |     29.9 |
+| UIC    | web/csv | 2021/w37 | 2021-09-17 | Friday    | Motorová nafta |  24.6 |     29.8 |
+| UIC    | web/csv | 2021/w37 | 2021-09-16 | Thursday  | Motorová nafta |  24.5 |     29.6 |
+| UIC    | web/csv | 2021/w37 | 2021-09-15 | Wednesday | Motorová nafta |  24.4 |     29.5 |
+| UIC    | web/csv | 2021/w37 | 2021-09-14 | Tuesday   | Motorová nafta |  24.4 |     29.5 |
+| UIC    | web/csv | 2021/w36 | 2021-09-11 | Saturday  | Motorová nafta |  24.3 |     29.4 |
+| UIC    | web/csv | 2021/w36 | 2021-09-10 | Friday    | Motorová nafta |  24.4 |     29.5 |
+| UIC    | web/csv | 2021/w36 | 2021-09-09 | Thursday  | Motorová nafta |  24.3 |     29.4 |
+| UIC    | web/csv | 2021/w36 | 2021-09-08 | Wednesday | Motorová nafta |  24.3 |     29.4 |
+| UIC    | web/csv | 2021/w36 | 2021-09-07 | Tuesday   | Motorová nafta |  24.4 |     29.5 |
+| UIC    | web/csv | 2021/w35 | 2021-09-04 | Saturday  | Motorová nafta |  24.4 |     29.5 |
 
 <img src="SpotOn_files/figure-gfm/uic-diesel-1.png" style="display: block; margin: auto auto auto 0;" />
 
@@ -71,12 +78,19 @@ Spot On
 
 | vendor | origin  | week     | date       | day       | fuel        | price | priceVAT |
 |:-------|:--------|:---------|:-----------|:----------|:------------|------:|---------:|
-| UIC    | web/csv | 2021/w25 | 2021-06-25 | Friday    | Benzin BA95 |  26.1 |     31.6 |
-| UIC    | web/csv | 2021/w25 | 2021-06-24 | Thursday  | Benzin BA95 |  26.0 |     31.5 |
-| UIC    | web/csv | 2021/w25 | 2021-06-23 | Wednesday | Benzin BA95 |  25.8 |     31.2 |
-| UIC    | web/csv | 2021/w25 | 2021-06-22 | Tuesday   | Benzin BA95 |  25.8 |     31.2 |
-| UIC    | web/csv | 2021/w24 | 2021-06-19 | Saturday  | Benzin BA95 |  25.5 |     30.9 |
-| UIC    | web/csv | 2021/w24 | 2021-06-18 | Friday    | Benzin BA95 |  25.6 |     31.0 |
-| UIC    | web/csv | 2021/w24 | 2021-06-17 | Thursday  | Benzin BA95 |  25.5 |     30.9 |
+| UIC    | web/csv | 2021/w38 | 2021-09-23 | Thursday  | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w38 | 2021-09-22 | Wednesday | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w38 | 2021-09-21 | Tuesday   | Benzin BA95 |  26.6 |     32.2 |
+| UIC    | web/csv | 2021/w37 | 2021-09-18 | Saturday  | Benzin BA95 |  26.6 |     32.2 |
+| UIC    | web/csv | 2021/w37 | 2021-09-17 | Friday    | Benzin BA95 |  26.6 |     32.2 |
+| UIC    | web/csv | 2021/w37 | 2021-09-16 | Thursday  | Benzin BA95 |  26.7 |     32.3 |
+| UIC    | web/csv | 2021/w37 | 2021-09-15 | Wednesday | Benzin BA95 |  26.6 |     32.2 |
+| UIC    | web/csv | 2021/w37 | 2021-09-14 | Tuesday   | Benzin BA95 |  26.6 |     32.2 |
+| UIC    | web/csv | 2021/w36 | 2021-09-11 | Saturday  | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w36 | 2021-09-10 | Friday    | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w36 | 2021-09-09 | Thursday  | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w36 | 2021-09-08 | Wednesday | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w36 | 2021-09-07 | Tuesday   | Benzin BA95 |  26.5 |     32.1 |
+| UIC    | web/csv | 2021/w35 | 2021-09-04 | Saturday  | Benzin BA95 |  26.5 |     32.1 |
 
 <img src="SpotOn_files/figure-gfm/uic-ba95-1.png" style="display: block; margin: auto auto auto 0;" />
